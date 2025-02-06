@@ -1,4 +1,4 @@
-# Mango Inc. Copilot Extension
+# Mango Inc. GitHub Copilot Extension
 
 A GitHub Copilot agent-based extension that serves as an AI-powered knowledge assistant for Mango Inc's engineering teams. This extension integrates company resources, best practices, and technical documentation directly into GitHub Copilot, providing contextual assistance to both new and existing team members.
 
