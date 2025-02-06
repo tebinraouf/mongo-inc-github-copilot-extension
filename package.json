@@ -1,0 +1,14 @@
+{
+  "name": "mango-inc-extension",
+  "private": "true",
+  "description": "An example of a GitHub Copilot Extension",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "@octokit/core": "^6.1.2",
+    "express": "^4.19.2"
+  }
+}
